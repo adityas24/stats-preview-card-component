@@ -1,1 +1,2 @@
-# stats-preview-card-component
+A challenge from frontendmentor.
+Coded by me 😀
